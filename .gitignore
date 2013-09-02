@@ -1,0 +1,6 @@
+#you can comment/uncomment the line below to put the resulting css under version control
+
+css
+
+node_modules
+.sass-cache
